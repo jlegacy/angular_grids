@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cheerio": "^0.20.0",
+    "cookies": "^0.5.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "favicon": "0.0.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "logger": "0.0.1",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
